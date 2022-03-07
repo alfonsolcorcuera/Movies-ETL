@@ -3,7 +3,7 @@
 
 ## Objective
 
-To execute and Extract, Transform and Load process in which we clean datasets and create new ones, by editing JSON and CSV files while using Pandas and Postgres.
+To execute an Extract, Transform and Load process in which we clean datasets and create new ones by editing JSON and CSV files while using Pandas and Postgres.
 
 
 ## Process
